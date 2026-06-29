@@ -1,7 +1,3 @@
-# Toy-Games-Business-Performance-Dashboard
-Toy &amp; Games Business Performance Dashboard is an interactive Microsoft Excel dashboard that analyzes sales, profit, inventory, and product performance. It features KPI cards, Pivot Charts, slicers, monthly revenue trends, top products, low-stock alerts, and category/location-wise revenue analysis.
-
-
 # 🧸 Toy & Games Business Performance Dashboard (Excel)
 
 ## 📌 Project Overview
@@ -62,9 +58,6 @@ The **Toy & Games Business Performance Dashboard** is an interactive **Microsoft
 * Top-performing products can be identified for better sales planning.
 * Revenue distribution across store locations supports location-based business decisions.
 
-## 📷 Dashboard Preview
-
-> Add the dashboard screenshot here.
 
 ## 🚀 Conclusion
 
